@@ -2,6 +2,7 @@
 
 Ce projet a pour objectif de faire passer une mini-app avec une _architecture monolythique_ à une _architecture hexagonale_ depuis ce fichier :
 
+```
 <?php
 $tasks = [];
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
@@ -26,3 +27,4 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
  </ul>
 </body>
 </html>
+```
