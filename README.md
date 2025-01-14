@@ -1,6 +1,6 @@
 # Task Management Application
 
-Ce projet a pour objectif de faire passer une mini-app avec une _architecture monolythique_ à une _architecture hexagonale_ depuis ce fichier :
+Ce projet a pour objectif de faire passer une mini-app avec une **architecture monolythique** à une **architecture hexagonale** depuis ce fichier :
 
 ```
 <?php
